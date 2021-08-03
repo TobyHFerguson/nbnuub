@@ -1,7 +1,7 @@
-repository: TobyHFerguson/nbnuub_lib
+repository: TobyHFerguson/nbnuub
 output: web
-topnav_title: nbnuub_lib
-site_title: nbnuub_lib
+topnav_title: nbnuub
+site_title: nbnuub
 company_name: No copyright, neither express nor implied
 description: My first attempt using nbdev
 # Set to false to disable KaTeX math

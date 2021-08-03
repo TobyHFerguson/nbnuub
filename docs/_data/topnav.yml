@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/TobyHFerguson/nbnuub_lib/tree/master/
+      external_url: https://github.com/TobyHFerguson/nbnuub/tree/master/
 
 #Topnav dropdowns
 topnav_dropdowns:
